@@ -1,8 +1,13 @@
 Circuits and descriptions
 -------------------------
 
-
-
+* :white_check_mark: LEDS 
+* Solar Cell
+* PIR Sensor
+* Laser Trip Wire
+* Stethoscope/Listening Device
+* Buzzer
+* Hall Effect Switch
 
 ## LED-Light-02-v2
 
