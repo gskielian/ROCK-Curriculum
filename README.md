@@ -12,6 +12,9 @@ There are over a dozen projects so far complete with project schematics,  blurbs
 .
 ├── Electronics
 │   ├── fritzing
+│   │   ├── LED-Light-02-v2.fzz
+│   │   ├── LED-Light-02.fzz
+│   │   ├── LED-Light-03-Switch.fzz
 │   │   ├── LED-Light-04-Resistor.fzz
 │   │   ├── LED-Light-05-Switch-Resistor.fzz
 │   │   ├── LED-Light-06-Night-Light.fzz
@@ -19,10 +22,7 @@ There are over a dozen projects so far complete with project schematics,  blurbs
 │   │   ├── LED-Light-07-Dimmer.fzz
 │   │   ├── LED-Light-09-Red-Light-Green-Light.fzz
 │   │   ├── LED-Light-10-Potentiometer-Red-Light-Green-Light.fzz
-│   │   ├── LED-Light-10a-Potentiometer-Red-Light-Green-Light.fzz
-│   │   ├── LED-Light-2-v2.fzz
-│   │   ├── LED-Light-2.fzz
-│   │   └── LED-Light-3-Switch.fzz
+│   │   └── LED-Light-10a-Potentiometer-Red-Light-Green-Light.fzz
 │   └── img
 │       ├── LED-Light-04-Resistor.png
 │       ├── LED-Light-2.png
