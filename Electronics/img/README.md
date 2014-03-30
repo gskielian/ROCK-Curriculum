@@ -8,6 +8,8 @@ Circuits and descriptions
 * Stethoscope/Listening Device
 * Buzzer
 * Hall Effect Switch
+* 555 based devices
+* Op amp basd devices
 
 ## LED-Light-02-v2
 
