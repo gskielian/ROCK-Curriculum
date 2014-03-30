@@ -18,8 +18,8 @@ There are over a dozen projects so far complete with project schematics,  blurbs
 │   │   ├── LED-Light-04-Resistor.fzz
 │   │   ├── LED-Light-05-Switch-Resistor.fzz
 │   │   ├── LED-Light-06-Night-Light.fzz
-│   │   ├── LED-Light-07-Dimmer-Switch.fzz
 │   │   ├── LED-Light-07-Dimmer.fzz
+│   │   ├── LED-Light-08-Dimmer-Switch.fzz
 │   │   ├── LED-Light-09-Red-Light-Green-Light.fzz
 │   │   ├── LED-Light-10-Potentiometer-Red-Light-Green-Light.fzz
 │   │   └── LED-Light-10a-Potentiometer-Red-Light-Green-Light.fzz
