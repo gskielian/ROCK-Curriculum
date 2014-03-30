@@ -24,9 +24,10 @@ There are over a dozen projects so far complete with project schematics,  blurbs
 │   │   ├── LED-Light-10-Potentiometer-Red-Light-Green-Light.fzz
 │   │   └── LED-Light-10a-Potentiometer-Red-Light-Green-Light.fzz
 │   └── img
-│       ├── LED-Light-04-Resistor.png
-│       ├── LED-Light-2.png
-│       └── LED-Light-3-Switch.png
+│       ├── LED-Light-02.png
+│       ├── LED-Light-03-Switch.png
+│       └── LED-Light-04-Resistor.png
+└── README.md
 ```
 
 ## 3D Printing
