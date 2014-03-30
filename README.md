@@ -1,4 +1,4 @@
-ROCK-Curruculum
+ROCK-Curriculum
 ===============
 
 Electronics - 3D Printing - Robotics
