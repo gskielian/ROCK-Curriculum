@@ -14,6 +14,12 @@ and
 3\. the AM radio bridge
 
 
+We control the amplitude of the 1000MHz signal with the oscillator can.
+
+[img](./Radio-Circuit-00.png)
+
+
+
 
 
 
