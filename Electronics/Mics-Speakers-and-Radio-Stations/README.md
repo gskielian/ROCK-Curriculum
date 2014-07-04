@@ -14,6 +14,15 @@ The following is an example of how to amplify a mic and send the output to a spe
 
 ![img](./Radio-Circuit-01.png)
 
+BOM
+* 2x 10uF capacitors (electrolytic most likely)
+* 2x 100k resistors for voltage divider
+* 2x 3.9k resistors for impedence on electret mic line
+* small resistor and big resistor ( ratio of about 1:100 ) for the non-inverting amp stage
+* Speaker
+* 3.7V Lipo
+
+
 
 2\. speaker actuation
 
@@ -22,10 +31,17 @@ The following is an example of how to amplify a mic and send the output to a spe
 3\. the AM radio bridge
 
 
-We control the amplitude of the 1000MHz signal with the oscillator can.
+We control the amplitude of the 1MHz signal with the oscillator can.
 
 ![img](./Radio-Circuit-00.png)
 
+BOM
+* 2x 10uF capacitors (electrolytic most likely)
+* 2x 100k resistors for voltage divider
+* 2x 3.9k resistors for impedence on electret mic line
+* small resistor and big resistor ( ratio of about 1:100 ) for the non-inverting amp stage
+* Oscillator Can 1000KHz
+* 3.7V Lipo
 
 
 
