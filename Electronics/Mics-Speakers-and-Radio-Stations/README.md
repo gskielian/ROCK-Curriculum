@@ -5,11 +5,19 @@ might have a cooler ring to it.
 
 Basically will be using this folder for following types of projects:
 
-1\. micophone amplifiers
+1\. microphone amplifiers
+
+To amplify a microphone, one needs to run some current through it (at matched impedence) and then send the output to an amplifier.  In the following case we use an OpAmp, which you will soon use pretty much always.
+
+
+The following is an example of how to amplify a mic and send the output to a speaker.
+
+![img](./Radio-Circuit-01.png)
+
 
 2\. speaker actuation
 
-and
+
 
 3\. the AM radio bridge
 
