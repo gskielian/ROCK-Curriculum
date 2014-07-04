@@ -16,7 +16,7 @@ and
 
 We control the amplitude of the 1000MHz signal with the oscillator can.
 
-[!img](./Radio-Circuit-00.png)
+![img](./Radio-Circuit-00.png)
 
 
 
